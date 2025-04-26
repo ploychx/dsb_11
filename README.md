@@ -13,4 +13,10 @@ This bootcamp runs about 4 months, 10 sprints
 - Python
 - Dashboard
 
+i love `code`
+
+```python
+print("hello word)
+```
+#markdown
 Email: [ployja](csatayachiti@gmail.com)
