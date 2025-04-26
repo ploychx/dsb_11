@@ -13,4 +13,4 @@ This bootcamp runs about 4 months, 10 sprints
 - Python
 - Dashboard
 
-Email: csatayachiti@gmail.com
+Email: [ployja](csatayachiti@gmail.com)
