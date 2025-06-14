@@ -1,7 +1,7 @@
 # dsb_11
 project data science bootcamp
 
-This bootcamp runs about 4 months, 10 sprints
+## This bootcamp runs about 4 months, 10 sprints
 
 - google sheet
 - Database
@@ -20,3 +20,6 @@ print("hello word)
 ```
 #markdown
 Email: [ployja](csatayachiti@gmail.com)
+
+##image
+! [https://mpics.mgronline.com/pics/Images/566000003454802.JPEG] 
