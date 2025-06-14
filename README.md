@@ -18,8 +18,9 @@ i love `code`
 ```python
 print("hello word)
 ```
-#markdown
+## markdown
 Email: [ployja](csatayachiti@gmail.com)
 
-##image
-! [https://mpics.mgronline.com/pics/Images/566000003454802.JPEG] 
+## image
+
+![Checken](https://mpics.mgronline.com/pics/Images/566000003454802.JPEG)
